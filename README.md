@@ -3,7 +3,7 @@
 Este script de web scraping en Python utiliza la biblioteca Selenium para extraer información de noticias de la página principal de BBC News en inglés, mediante la identificación de enlaces y la navegación autónoma.
 
 # Integrantes:
-Judith Urbina Córdoba
+Judith Urbina Córdoba y
 Cristina Grau Vílchez
 
 # Archivos que componen el Repositorio:
