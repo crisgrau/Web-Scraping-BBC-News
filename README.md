@@ -1,4 +1,5 @@
 # Web Scraping BBC News
+## Práctica 1 Tipología y Ciclo de Vida de los Datos
 
 Este script de web scraping en Python utiliza la biblioteca Selenium para extraer información de noticias de la página principal de BBC News en inglés, mediante la identificación de enlaces y la navegación autónoma.
 
@@ -10,7 +11,7 @@ Cristina Grau Vílchez
 
 1. **README.md:** Este archivo proporciona detalles sobre la ejecución del código y contiene el DOI de Zenodo para referencia. Aquí se explican los pasos necesarios para configurar y ejecutar el script.
 
-2. **codigo.py:** Este archivo contiene el código en Python, ubicado dentro de la carpeta "source", implementado para extraer datos de la página principal de BBC News mediante web scraping utilizando la biblioteca Selenium.
+2. **/source/codigo.py:** Este archivo contiene el código en Python, ubicado dentro de la carpeta "source", implementado para extraer datos de la página principal de BBC News mediante web scraping utilizando la biblioteca Selenium.
 
 3. **requirements.txt:** En este archivo se encuentran las librerías necesarias para ejecutar el código. Pueden ser instaladas utilizando el comando `pip install -r requirements.txt`.
 
@@ -48,3 +49,9 @@ Abre el archivo `bbc_news_dataset.csv` para visualizar el conjunto de datos crea
 ```bash
 10.5281/zenodo.10124551
 ```
+
+# Recursos
+ 
+1. Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC
+2. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+3. Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining. John Wiley & Sons.
