@@ -10,7 +10,7 @@ Cristina Grau Vílchez
 
 1. **README.md:** Este archivo proporciona detalles sobre la ejecución del código y contiene el DOI de Zenodo para referencia. Aquí se explican los pasos necesarios para configurar y ejecutar el script.
 
-2. **codigo.py:** Este archivo contiene el código en Python implementado para extraer datos de la página principal de BBC News mediante web scraping utilizando la biblioteca Selenium.
+2. **codigo.py:** Este archivo contiene el código en Python, ubicado dentro de la carpeta "source", implementado para extraer datos de la página principal de BBC News mediante web scraping utilizando la biblioteca Selenium.
 
 3. **requirements.txt:** En este archivo se encuentran las librerías necesarias para ejecutar el código. Pueden ser instaladas utilizando el comando `pip install -r requirements.txt`.
 
